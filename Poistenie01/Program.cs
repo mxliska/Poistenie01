@@ -10,7 +10,7 @@ while (true)
     Console.WriteLine("2. Zobrazit seznam vsech pojistenych");
     Console.WriteLine("3. vyhledat poisteneho");
     Console.WriteLine("4. konec") ;
-
+    //
     string volba = Console.ReadLine();
 
     switch (volba)
