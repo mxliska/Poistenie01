@@ -69,6 +69,7 @@ namespace Poistenie01
             poistenci.Add(poisteny);
 
             Console.WriteLine("Pojistenec byl uspesne pridan");
+            Console.WriteLine();
         }
 
 
@@ -81,6 +82,7 @@ namespace Poistenie01
             {
                 Console.WriteLine(c);
             }
+            Console.WriteLine();
         }
 
 
@@ -98,6 +100,7 @@ namespace Poistenie01
             {
                 Console.WriteLine("Nalezeny poisteny: ");
                 Console.WriteLine(nalezenyPoisteny);
+                Console.WriteLine();
             }
 
             else
